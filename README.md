@@ -15,7 +15,7 @@ Version 1.0, September 2026\.
 
 ## Included Stickers
 
-https://github.com/toastiez/pagenotes.koplugin/blob/main/Stickers-FULL.png
+\!\[alt text\]([https://github.com/toastiez/pagenotes.koplugin/blob/main/Stickers-FULL.png](https://github.com/toastiez/pagenotes.koplugin/blob/main/Stickers-FULL.png) "Full Sticker sheet" )
 
 ## Installing it
 
@@ -23,9 +23,10 @@ https://github.com/toastiez/pagenotes.koplugin/blob/main/Stickers-FULL.png
 2. Drop that folder into `koreader/plugins/` on your device. I use LocalSend, USB works too.  
 3. Restart KOReader.
 
-Sticker packs can either go under the packs folder inside `koreader/plugins/pagenotes/packs`   
+Sticker packs can either go under the packs folder inside  
+ \# `koreader/plugins/pagenotes/packs`   
 Or   
-`koreader/pagenotes/packs` 
+`# koreader/pagenotes/packs` 
 
 Two locations to add the packs. Each folder becomes its own category/folder in the sticker popup  
 ---
@@ -108,9 +109,9 @@ Once you tap Done, notes are just drawn on the page. Tapping and holding go to t
 
 This is the fun part. Make a folder for each pack here:
 
-koreader/pagenotes/packs/your pack name/   
+\# koreader/pagenotes/packs/your pack name/   
 Or   
-koreader/plugins/pagenotes/packs/your pack name/ 
+\# koreader/plugins/pagenotes/packs/your pack name/ 
 
 Drop PNG, JPG, or SVG files in it. One folder is one pack, and the folder name is what shows up in the popup.
 
