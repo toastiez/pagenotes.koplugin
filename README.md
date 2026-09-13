@@ -12,6 +12,8 @@ As a disclaimer, I'm not a developer, I'm actually a game designer, so I made th
 
 Version 1.0, September 2026.
 
+<img width="450" alt="Reader_Swordheart - T  Kingfisher (84) epub_p189_2026-09-10_001508" src="https://github.com/user-attachments/assets/ebbe1b8b-7f0f-490a-a8c9-77c5efcfaeee" />
+
 ---
 
 ## Included stickers
