@@ -15,7 +15,7 @@ Version 1.0, September 2026\.
 
 ## Included Stickers
 
-\!\[alt text\]([https://github.com/toastiez/pagenotes.koplugin/blob/main/Stickers-FULL.png](https://github.com/toastiez/pagenotes.koplugin/blob/main/Stickers-FULL.png) "Full Sticker sheet" )
+\!\[Full sticker sheet\](Stickers-FULL.png)
 
 ## Installing it
 
@@ -23,10 +23,17 @@ Version 1.0, September 2026\.
 2. Drop that folder into `koreader/plugins/` on your device. I use LocalSend, USB works too.  
 3. Restart KOReader.
 
-Sticker packs can either go under the packs folder inside  
- \# `koreader/plugins/pagenotes/packs`   
-Or   
-`# koreader/pagenotes/packs` 
+Sticker packs can go in either of these folders:
+
+\`\`\`  
+koreader/plugins/pagenotes.koplugin/packs  
+\`\`\`
+
+or
+
+\`\`\`  
+koreader/pagenotes/packs  
+\`\`\`
 
 Two locations to add the packs. Each folder becomes its own category/folder in the sticker popup  
 ---
@@ -125,7 +132,19 @@ To help with that, the plugin cleans every sticker before drawing it. How solid 
 
 To turn a pack on or off: **Page notes** menu → **Sticker packs** → tick or untick.
 
-The plugin comes with a `basic` pack of placeholder shapes. That one lives inside the plugin folder and gets replaced when you update, so keep your own packs in `koreader/pagenotes/packs/`.
+The plugin comes with a `basic` pack of placeholder shapes. That one lives inside the plugin folder and gets replaced when you update,
+
+ `Sticker packs can go in either of these folders:`
+
+```` ``` ````  
+`koreader/plugins/pagenotes.koplugin/packs`  
+```` ``` ````
+
+`or`
+
+```` ``` ````  
+`koreader/pagenotes/packs`  
+```` ``` ````
 
 Also includes my own sticker pack under **Emojis**  
 ---
